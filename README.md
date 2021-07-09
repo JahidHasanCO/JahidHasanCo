@@ -6,18 +6,13 @@
 
 I'm a **Android Developer**, Studied in **Daffodil International University** in **Computer Science**. My day to day work building android studio projects and revolves around building Machine Learning models for various interseting problems and deploying them to production, at scale. In my free time I like to watch movies, read blogs and participate in online contests. I am open to collaborate on interesting projects.
 
-### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/JahidHasanCO)
-- :school: I'm [Keshav Singh](https://keshavsingh4522.github.io/) currently a Fourth Year CSE student at <a href="https://jecrcfoundation.com/">@JECRC  </a>
-- 🔭 I’m currently working on  **Competitive Programming**
-- :neutral_face: I have a **love/hate** relationship with **Programming**
+### Hi  👋  
+- 🔭 I’m currently working on  **Android Development**
 - 🌱 I’m currently learning **Data Analyasis with Python**
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
 - :bulb: Occasionaly I do participate in **Hackathons**
-- 👨 Know more about me at [Sourcerer](https://sourcerer.io/keshavsingh4522) 
-- 🌐 Visit my [porfolio website](https://keshavsingh4522.github.io/) for complete background and contact.
-- :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)
 <!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
 
 <br />
@@ -95,10 +90,10 @@ I'm a **Android Developer**, Studied in **Daffodil International University** in
 <!-- start statics fun section -->
 <details>
 <summary><b> Some Statistics Fun </b></summary>
-<img src='https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=tokyonight&hide_langs_below=4' />
+<img src='https://github-readme-stats.vercel.app/api?username=JahidHasanCO&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=JahidHasanCO&theme=tokyonight&hide_langs_below=4' />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=keshavsingh4522&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JahidHasanCO&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </details>
 <!-- end statics fun section -->
@@ -158,22 +153,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 </details>
 
 
-<!-- start dynamic spotify spngs API -->
-### i really like music :headphones:
 
-<!-- Nothing weird to see here -->
-<p align="center">currently jamming to</p>
-<p align="center">
-  <a href="https://spotify-now-playing-song.vercel.app/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://spotify-now-playing-song.vercel.app/api/now-playing">
-  </a>
-</p>
-
-<p align="center">
-  <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
-  <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a> for song api</i>
-</p>
 <!-- end dynamic spotify spngs API -->
 
 <!-- start footer section -->
