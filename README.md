@@ -2,5 +2,5 @@
   <img src="https://github.com/JahidHasanCO/JahidHasanCo/blob/main/cover%20jahid%20hasan.png" />
 </p>
 <p align="center">
-  #Jahid Hasan
+  <h1> Jahid Hasan </h1>
 </p>
