@@ -25,7 +25,7 @@ I'm a **Android Developer**, Studied in **Daffodil International University** in
   <thead>
     <tr>
       <th>Project Name</th>
-      <th>Skills used</th>
+      <th>Tool/Library/Language</th>
       <th>Description</th>
     </tr>
   </thead>
@@ -34,6 +34,14 @@ I'm a **Android Developer**, Studied in **Daffodil International University** in
       <td><a href='https://github.com/JahidHasanCO/BuyNow-App/'>Buy Now App</a></td>
       <td>XML, Kotlin , Tensor Flow</td>
       <td>It is an Ecommerce App.</td>
+    </tr>
+  </tbody>
+  
+   <tbody>
+    <tr>
+      <td><a href='https://github.com/JahidHasanCO/Calculator-App/'>Calculator App</a></td>
+      <td>XML, Kotlin </td>
+      <td>It is a simple calculator App.</td>
     </tr>
   </tbody>
 </table>
