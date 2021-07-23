@@ -13,7 +13,7 @@ I'm an Android Developer, Studied at Daffodil International University in Comput
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
 - :bulb: Occasionaly I do participate in **Hackathons**
-<!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
+<!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** --> 
 
 <br />
 <br />
