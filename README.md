@@ -37,11 +37,19 @@ I'm an Android Developer, Studied at Daffodil International University in Comput
     </tr>
   </tbody>
   
+    <tbody>
+    <tr>
+      <td><a href='https://github.com/JahidHasanCO/TransloNum'>TransloNum Library</a></td>
+      <td>Android Studio</td>
+      <td>It is a simple calculator App.</td>
+    </tr>
+  </tbody>
+  
    <tbody>
     <tr>
       <td><a href='https://github.com/JahidHasanCO/Calculator-App/'>Calculator App</a></td>
       <td>XML, Kotlin </td>
-      <td>It is a simple calculator App.</td>
+      <td>ransloNum is an Android Studio Library. This library Translate or Convert English Number Digits to Hindi, Arabic, Bangla Number Digits.</td>
     </tr>
   </tbody>
 </table>
