@@ -4,15 +4,15 @@
 <h2 align="center">Hey there, I'm <a href="https://www.facebook.com/hJahidHasan.jrC/">Jahid Hasan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h2>
 
 
-I'm an Android Developer, Studied at Daffodil International University in Computer Science. My day-to-day work building android studio projects and revolves around building Machine Learning models for various interesting problems and deploying them to production, at scale. In my free time, I like to watch movies, read blogs and participate in online contests. I am open to collaborate on interesting projects.
+I'm an Android Developer, Studied at Daffodil International University in Computer Science. My day-to-day work is building android studio projects. It revolves around building Machine Learning models for various interesting problems and deploying them to production at scale. In my free time, I like to watch movies, read blogs and participate in online contests. I am open to collaborating on exciting projects.
 
 ### Hi  👋  
-- 🔭 I’m currently working on  **Android Development**
-- 🌱 I’m currently learning **Data Analyasis with Python**
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+- 🔭 I'm currently working on  **Android Development**
+- 🌱 I'm currently learning **Data Analysis with Python**
+- 🤔 I'm looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
-- :bulb: Occasionaly I do participate in **Hackathons**
+- :bulb: Occasionally, I do participate in **Hackathons**
 <!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** --> 
 
 <br />
