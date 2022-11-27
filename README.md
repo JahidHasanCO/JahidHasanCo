@@ -18,50 +18,6 @@ I'm an Android Developer, Studied at Daffodil International University in Comput
 <br />
 <br />
 
-<!-- start work project section -->
-<details>
-<summary><b> My Work Project :point_right:</b></summary>
-<table>
-  <thead>
-    <tr>
-      <th>Project Name</th>
-      <th>Tool/Library/Language</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href='https://github.com/JahidHasanCO/BuyNow-App/'>Buy Now App</a></td>
-      <td>XML, Kotlin , Tensor Flow</td>
-      <td>Buy Now is An e-commerce app. In this app I use Machine Learning Algorithm for users can search visually. Users upload or take a photo, and this Algorithm will search for a similar product.</td>
-    </tr>
-  </tbody>
-    <tbody>
-    <tr>
-      <td><a href='https://github.com/JahidHasanCO/Fliq.-The-Movie-DB'>Fliq. - The Movie DB</a></td>
-      <td>XML, Kotlin , Retrofit</td>
-      <td>Fliq is a Movie database app. This app is integrated with The Movie DB API. This app UI is simple enough to use and the app is a fun way to get an overview of your movie experience. This repo was created with help of awesome UI, Material Design, and the latest features.</td>
-    </tr>
-  </tbody>
-   <tbody>
-    <tr>
-      <td><a href='https://github.com/JahidHasanCO/TransloNum'>TransloNum Library</a></td>
-      <td>Android Studio</td>
-      <td>TransloNum is an Android Studio Library. This library Translate or Convert English Number Digits to Hindi, Arabic, Bangla Number Digits.</td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td><a href='https://github.com/JahidHasanCO/Calculator-App/'>Calculator App</a></td>
-      <td>XML, Kotlin </td>
-      <td>It is a simple calculator App.</td>
-    </tr>
-  </tbody>
- 
-</table>
-</details>
-<!-- end work project section -->
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/JahidHasanCo?theme=wtf&font=IBM%20Plex%20Sans%20Devanagari) [![Check out JahidHasanCO's profile on stardev.io](https://stardev.io/developers/JahidHasanCO/badge/languages/global.svg)](https://stardev.io/developers/JahidHasanCO)
 
 <img src="https://raw.githubusercontent.com/JahidHasanCO/JahidHasanCo/output/github-contribution-grid-snake.svg">
