@@ -18,6 +18,4 @@ I'm an Android Developer, Studied at Daffodil International University in Comput
 <br />
 <br />
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/JahidHasanCo?theme=wtf&font=IBM%20Plex%20Sans%20Devanagari)[![Check out JahidHasanCO's profile on stardev.io](https://stardev.io/developers/JahidHasanCO/badge/languages/global.svg)](https://stardev.io/developers/JahidHasanCO)
-
-<img src="https://raw.githubusercontent.com/JahidHasanCO/JahidHasanCo/output/github-contribution-grid-snake.svg">
+![LeetCode Stats](https://leetcard.jacoblin.cool/JahidHasanCo?theme=wtf&font=IBM%20Plex%20Sans%20Devanagari)
